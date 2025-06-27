@@ -22,6 +22,7 @@ This project is part of a daily frontend practice challenge focused on building 
 ## 📷 Screenshot
 
 ![Caveman Calculator Screenshot](./app.png)
+![Caveman Calculator Screenshot](./calculatorcode.png)
 
 ## 🚀 How to Use
 
