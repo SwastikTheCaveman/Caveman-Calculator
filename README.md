@@ -1,7 +1,11 @@
 # Caveman Calculator 🧮
 
-A simple, fully functional calculator built using *HTML and **CSS  
+A simple, fully functional calculator built using *HTML* and *CSS* 
 This project is part of a daily frontend practice challenge focused on building small, functional web apps consistently.
+
+## 🌐 Live Demo
+
+[Try it here](https://cavemancalculator.pages.dev/)
 
 ## 🔧 Features
 
@@ -17,7 +21,7 @@ This project is part of a daily frontend practice challenge focused on building 
 
 ## 📷 Screenshot
 
-![Caveman Calculator Screenshot](./screenshot.png)
+![Caveman Calculator Screenshot](./app.png)
 
 ## 🚀 How to Use
 
@@ -30,8 +34,4 @@ This project is part of a daily frontend practice challenge focused on building 
 This is a part of my self-paced frontend journey where I build a new project each day.  
 The calculator app was built on *June 27, 2025*, after pivoting from a broken news app attempt — maintaining the streak and learning through the process.
 
----
-
-## 🌐 Live Demo
-
-[Try it here](https://cavemancalculator.pages.dev/) <!-- Replace with actual link -->
+--- <!-- Replace with actual link -->
