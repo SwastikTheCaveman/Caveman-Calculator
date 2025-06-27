@@ -34,5 +34,3 @@ This project is part of a daily frontend practice challenge focused on building 
 
 This is a part of my self-paced frontend journey where I build a new project each day.  
 The calculator app was built on *June 27, 2025*, after pivoting from a broken news app attempt — maintaining the streak and learning through the process.
-
---- <!-- Replace with actual link -->
