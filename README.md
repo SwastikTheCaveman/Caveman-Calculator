@@ -1,4 +1,4 @@
-# Caveman Calculator 🧮
+<h1 align = 'center'> Caveman Calculator 🧮</h1>
 
 A simple, fully functional calculator built using *HTML* and *CSS* 
 This project is part of a daily frontend practice challenge focused on building small, functional web apps consistently.
@@ -22,7 +22,6 @@ This project is part of a daily frontend practice challenge focused on building 
 ## 📷 Screenshot
 
 ![Caveman Calculator Screenshot](./app.png)
-![Caveman Calculator Screenshot](./calculatorcode.png)
 
 ## 🚀 How to Use
 
