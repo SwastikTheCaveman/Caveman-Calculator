@@ -12,7 +12,7 @@ This project is part of a daily frontend practice challenge focused on building 
 - Basic arithmetic operations: addition, subtraction, multiplication, division
 - Decimal and double zero support
 - Clear (AC) and backspace (DE) functionality
-- Responsive and minimal UI using CSS
+- Responsive and minimal UI
 
 ## 📁 Technologies Used
 
