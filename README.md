@@ -16,8 +16,8 @@ This project is part of a daily frontend practice challenge focused on building 
 
 ## 📁 Technologies Used
 
-- HTML5 for structure  
-- CSS3 for styling 
+- HTML5  
+- CSS3 
 
 ## 📷 Screenshot
 
