@@ -5,14 +5,14 @@ This project is part of a daily frontend practice challenge focused on building 
 
 ## 🌐 Live Demo
 
-[Try it here](https://cavemancalculator.pages.dev/)
+[Try it](https://cavemancalculator.pages.dev/)
 
 ## 🔧 Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division
 - Decimal and double zero (00) support
 - Clear (AC) and backspace (DE) functionality
-- Responsive and minimal UI
+- Responsive and minimal UI using CSS
 
 ## 📁 Technologies Used
 
