@@ -10,7 +10,7 @@ This project is part of a daily frontend practice challenge focused on building 
 ## 🔧 Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division
-- Decimal and double zero (00) support
+- Decimal and double zero support
 - Clear (AC) and backspace (DE) functionality
 - Responsive and minimal UI using CSS
 
